@@ -1,58 +1,45 @@
-# Hi there, I'm [Tu Nombre] 👋
+# Hi, I'm [Tu Nombre]! 🚀
 
-### ☁️ Aspiring Cloud Engineer | Telematics Engineering Student
+### Passionate about Cloud & Infrastructure ☁️
 
-I'm a 7th-semester student at **Universidad Icesi** passionate about building resilient cloud infrastructure. My journey is focused on mastering **AWS**, infrastructure as code, and containerization.
+I am a passionate Telematics Engineering student currently in my 7th semester at Universidad Icesi 🎓, where I have built a strong foundation in networking and systems 💻. My technical journey led me to discover a deep interest in Cloud Computing ☁️, which has now become my main career focus 🎯. I am fully committed to becoming a Cloud Engineer, actively dedicating my time to mastering the AWS ecosystem 🟧, Linux environments 🐧, and Infrastructure as Code 🛠️. I thrive on the challenge of designing scalable architectures 🏗️ and am constantly expanding my skill set through hands-on projects and continuous learning to bridge the gap between development and operations ⚡.
 
 ---
 
-### 🚀 Core Tech Stack (Main Focus)
-*Tools and technologies I use daily or specialize in.*
+### 🚀 Cloud Infrastructure & DevOps Focus
+*My main tech stack. Tools I use daily to build and automate.*
 
-<div align="left">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%237B42BC.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<div align="center">
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="Amazon Web Services"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/>
   <br/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux (Arch/Ubuntu)"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" title="Prometheus"/>
 </div>
 
 ---
 
-### 🛠️ Foundation & Tools
-*Technologies I have experience with or use for specific tasks.*
+### 🎓 University Foundation & Networking
+*Technologies learned during my Telematics Engineering degree, focused on Networking and SysAdmin.*
 
-| Category | Skills |
-| :--- | :--- |
-| **Networking** | OSPF, RIP, DNS, DHCP, IPv4/IPv6 |
-| **Monitoring** | Grafana, Prometheus |
-| **Programming** | Java, HTML5, CSS3 |
-| **OS Distros** | Arch Linux, Ubuntu |
+<div align="center">
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e284f107-1601-4475-a81d-6169994b7915.png" alt="Ansible" title="Ansible"/>
+  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534575-d22a5732-2d12-421b-8049-7c050a41738c.png" alt="Vagrant" title="Vagrant"/>
+  <br/>
+  <img width="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" title="Cisco Switching & Routing"/>
+  <img width="50" src="https://www.vectorlogo.zone/logos/isc/isc-icon.svg" alt="Bind9 & Kea" title="Bind 9 & Kea DHCP (ISC)"/>
+  <img width="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" title="Shell Scripting"/>
+</div>
 
----
-
-### 🔭 Current Projects & Learning Path
-
-I am currently working on a **Cloud Portfolio** showcasing real-world scenarios:
-
-* 🏗️ **Secure Network Architecture:** Designing VPCs with strict security groups and NACLs.
-* 💰 **Cost Governance System:** Implementing budget alerts and resource tagging strategies.
-* ⚡ **Serverless Application:** Building event-driven microservices using AWS Lambda.
-* 🤖 **Event-Driven Automation:** Automating workflows with EventBridge and SNS.
-
-*Also maintaining an Overwatch fan site deployed via **AWS S3 & Cloudflare**.*
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/TU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tu-email@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<p align="center">
+  <br>
+  <em>Currently working on AWS Projects & an Overwatch Fan Site 🎮</em>
 </p>
+
+---
+
