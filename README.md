@@ -1,4 +1,4 @@
-# Hi, I'm Juan David Pacheco Vargas! 🚀
+# Hi, I'm Juan David! 🚀
 
 ### Passionate about Cloud & Infrastructure ☁️
 
@@ -10,33 +10,41 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 *My main tech stack. Tools I use daily to build and automate.*
 
 <div align="center">
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="Amazon Web Services"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform" title="Terraform"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" alt="Kubernetes" title="Kubernetes"/>
+  <img width="48" src="https://cdn.simpleicons.org/amazonaws/FF9900" title="AWS"/>
+  <img width="48" src="https://cdn.simpleicons.org/terraform/7B42BC" title="Terraform"/>
+  <img width="48" src="https://cdn.simpleicons.org/docker/2496ED" title="Docker"/>
+  <img width="48" src="https://cdn.simpleicons.org/kubernetes/326CE5" title="Kubernetes"/>
   <br/>
-  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux (Arch/Ubuntu)"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png" alt="Grafana" title="Grafana"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png" alt="Prometheus" title="Prometheus"/>
+  <img width="48" src="https://cdn.simpleicons.org/linux/FCC624" title="Linux"/>
+  <img width="48" src="https://cdn.simpleicons.org/python/3776AB" title="Python"/>
+  <img width="48" src="https://cdn.simpleicons.org/grafana/F46800" title="Grafana"/>
+  <img width="48" src="https://cdn.simpleicons.org/prometheus/E6522C" title="Prometheus"/>
 </div>
 
 ---
 
 ### 🎓 University Foundation & Networking
-*Technologies learned during my Telematics Engineering degree, focused on Networking and SysAdmin.*
+*Technologies learned during my Telematics Engineering degree.*
 
 <div align="center">
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
-  <img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e284f107-1601-4475-a81d-6169994b7915.png" alt="Ansible" title="Ansible"/>
-  <img width="50" src="https://user-images.githubusercontent.com/25181517/182534575-d22a5732-2d12-421b-8049-7c050a41738c.png" alt="Vagrant" title="Vagrant"/>
+  <img width="48" src="https://cdn.simpleicons.org/java/ED8B00" title="Java"/>
+  <img width="48" src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible"/>
+  <img width="48" src="https://cdn.simpleicons.org/vagrant/1868F2" title="Vagrant"/>
   <br/>
-  <img width="50" src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" alt="Cisco" title="Cisco Switching & Routing"/>
-  <img width="50" src="https://www.vectorlogo.zone/logos/isc/isc-icon.svg" alt="Bind9 & Kea" title="Bind 9 & Kea DHCP (ISC)"/>
-  <img width="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" title="Shell Scripting"/>
+  <img width="48" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco"/>
+  <img width="48" src="https://cdn.simpleicons.org/gnubash/4EAA25" title="Bash"/>
+  <img width="48" src="https://cdn.simpleicons.org/isc/005FAD" title="ISC Bind / Kea"/>
 </div>
 
+---
 
+### 📫 Let's Connect
 
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-david-pacheco-vargas-0998b53a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:juandau.2880@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
