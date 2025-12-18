@@ -31,7 +31,7 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" height="40" alt="Vagrant"/>
   <br/>
-  <img src="https://www.vectorlogo.zone/logos/cisco/cisco-icon.svg" height="40" alt="Cisco"/>&nbsp;
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="40" alt="Bash"/>&nbsp;
   <img width="40" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/>
 </div>
