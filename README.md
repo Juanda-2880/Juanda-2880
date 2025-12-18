@@ -1,4 +1,4 @@
-# Hi, I'm [Tu Nombre]! 🚀
+# Hi, I'm Juan David Pacheco Vargas! 🚀
 
 ### Passionate about Cloud & Infrastructure ☁️
 
@@ -36,10 +36,7 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
   <img width="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell" title="Shell Scripting"/>
 </div>
 
-<p align="center">
-  <br>
-  <em>Currently working on AWS Projects & an Overwatch Fan Site 🎮</em>
-</p>
 
----
+
+
 
