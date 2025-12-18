@@ -10,15 +10,15 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 *My main tech stack. Tools I use daily to build and automate.*
 
 <div align="center">
-  <img width="48" src="https://cdn.simpleicons.org/amazonaws/FF9900" title="AWS"/>
-  <img width="48" src="https://cdn.simpleicons.org/terraform/7B42BC" title="Terraform"/>
-  <img width="48" src="https://cdn.simpleicons.org/docker/2496ED" title="Docker"/>
-  <img width="48" src="https://cdn.simpleicons.org/kubernetes/326CE5" title="Kubernetes"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/amazonaws/FF9900" title="AWS"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/terraform/7B42BC" title="Terraform"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/docker/2496ED" title="Docker"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/kubernetes/326CE5" title="Kubernetes"/>
   <br/>
-  <img width="48" src="https://cdn.simpleicons.org/linux/FCC624" title="Linux"/>
-  <img width="48" src="https://cdn.simpleicons.org/python/3776AB" title="Python"/>
-  <img width="48" src="https://cdn.simpleicons.org/grafana/F46800" title="Grafana"/>
-  <img width="48" src="https://cdn.simpleicons.org/prometheus/E6522C" title="Prometheus"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/linux/FCC624" title="Linux"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/python/3776AB" title="Python"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/grafana/F46800" title="Grafana"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/prometheus/E6522C" title="Prometheus"/>
 </div>
 
 ---
@@ -27,13 +27,13 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 *Technologies learned during my Telematics Engineering degree.*
 
 <div align="center">
-  <img width="48" src="https://cdn.simpleicons.org/java/ED8B00" title="Java"/>
-  <img width="48" src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible"/>
-  <img width="48" src="https://cdn.simpleicons.org/vagrant/1868F2" title="Vagrant"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/java/ED8B00" title="Java"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/ansible/EE0000" title="Ansible"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/vagrant/1868F2" title="Vagrant"/>
   <br/>
-  <img width="48" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco"/>
-  <img width="48" src="https://cdn.simpleicons.org/gnubash/4EAA25" title="Bash"/>
-  <img width="48" src="https://cdn.simpleicons.org/isc/005FAD" title="ISC Bind / Kea"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/gnubash/4EAA25" title="Bash"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/isc/005FAD" title="ISC Bind / Kea"/>
 </div>
 
 ---
@@ -42,9 +42,9 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-david-pacheco-vargas-0998b53a0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/linkedin/0077B5" title="LinkedIn"/>
   </a>
   <a href="mailto:juandau.2880@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/gmail/D14836" title="Email"/>
   </a>
 </p>
