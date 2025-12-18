@@ -10,7 +10,7 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 *My main tech stack. Tools I use daily to build and automate.*
 
 <div align="center">
-  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/amazonaws/FF9900" title="AWS"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/amazonwebservices/FF9900" title="AWS"/>
   <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/terraform/7B42BC" title="Terraform"/>
   <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/docker/2496ED" title="Docker"/>
   <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/kubernetes/326CE5" title="Kubernetes"/>
@@ -34,6 +34,17 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
   <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/cisco/1BA0D7" title="Cisco"/>
   <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/gnubash/4EAA25" title="Bash"/>
   <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/isc/005FAD" title="ISC Bind / Kea"/>
+</div>
+
+---
+
+### 💻 Operating Systems Used
+*Daily drivers and server environments.*
+
+<div align="center">
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/archlinux/1793D1" title="Arch Linux"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/ubuntu/E95420" title="Ubuntu"/>
+  <img width="48" style="margin: 10px;" src="https://cdn.simpleicons.org/windows/0078D6" title="Windows"/>
 </div>
 
 ---
