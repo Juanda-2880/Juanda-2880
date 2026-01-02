@@ -1,8 +1,8 @@
-# Hi, I'm Juan David! 🚀
+# Hi, I'm Juan David! 
 
 ### Passionate about Cloud & Infrastructure ☁️
 
-I am a passionate Telematics Engineering student currently in my 7th semester at Universidad Icesi 🎓, where I have built a strong foundation in networking and systems 💻. My technical journey led me to discover a deep interest in Cloud Computing ☁️, which has now become my main career focus 🎯. I am fully committed to becoming a Cloud Engineer, actively dedicating my time to mastering the AWS ecosystem 🟧, Linux environments 🐧, and Infrastructure as Code 🛠️. I thrive on the challenge of designing scalable architectures 🏗️ and am constantly expanding my skill set through hands-on projects and continuous learning to bridge the gap between development and operations ⚡.
+I am a passionate Telematics Engineering student currently in my 7th semester at Universidad Icesi , where I have built a strong foundation in networking and systems . My technical journey led me to discover a deep interest in Cloud Computing , which has now become my main career focus . I am fully committed to becoming a Cloud Engineer, actively dedicating my time to mastering the AWS ecosystem , Linux environments , and Infrastructure as Code . I thrive on the challenge of designing scalable architectures  and am constantly expanding my skill set through hands-on projects and continuous learning to bridge the gap between development and operations .
 
 ---
 
