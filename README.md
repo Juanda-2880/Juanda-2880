@@ -83,3 +83,9 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" alt="Email"/>
   </a>
 </p>
+
+
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Juanda-2880&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Juanda-2880" />
+</p>
