@@ -59,3 +59,5 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" alt="Email"/>
   </a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20Views)
