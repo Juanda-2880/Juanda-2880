@@ -49,6 +49,30 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+<br/>
+
+<table>
+  <tr>
+    <td align="center" style="border: none;">
+      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Juanda-2880&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    </td>
+    <td align="center" style="border: none;">
+      <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanda-2880&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
+
+</div>
+
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
@@ -59,32 +83,3 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" height="40" alt="Email"/>
   </a>
 </p>
-
-
-
-<div align="center">
-
-### 📊 GitHub Stats
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Juanda-2880&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Juanda's Trophies" />
-  </a>
-  <br/>
-  <br/>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Juanda-2880&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" />
-  </a>
-  <br/>
-
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img height="180" src="https://streak-stats.demolab.com?user=Juanda-2880&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Juanda-2880&theme=dracula&hide_border=true&bg_color=0d1117&area=true" />
-  </a>
-
-</div>
