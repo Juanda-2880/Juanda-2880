@@ -1,12 +1,12 @@
 # Hi, I'm Juan David! 
 
-### Passionate about Cloud & Infrastructure ☁️
+### Passionate about Cloud & Infrastructure 
 
 I am a passionate Telematics Engineering student currently in my 7th semester at Universidad Icesi , where I have built a strong foundation in networking and systems . My technical journey led me to discover a deep interest in Cloud Computing , which has now become my main career focus . I am fully committed to becoming a Cloud Engineer, actively dedicating my time to mastering the AWS ecosystem , Linux environments , and Infrastructure as Code . I thrive on the challenge of designing scalable architectures  and am constantly expanding my skill set through hands-on projects and continuous learning to bridge the gap between development and operations .
 
 ---
 
-### 🚀 Cloud Infrastructure & DevOps Focus
+###  Cloud Infrastructure & DevOps Focus
 *My main tech stack. Tools I use daily to build and automate.*
 
 <div align="center">
@@ -23,7 +23,7 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 
 ---
 
-### 🎓 University Foundation & Networking
+###  University Foundation & Networking
 *Technologies learned during my Telematics Engineering degree.*
 
 <div align="center">
@@ -38,7 +38,7 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 
 ---
 
-### 💻 Operating Systems Used
+###  Operating Systems Used
 *Daily drivers and server environments.*
 
 <div align="center">
@@ -49,7 +49,7 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <div align="center">
 <br/>
@@ -73,7 +73,7 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-david-pacheco-vargas-0998b53a0/" target="_blank">
