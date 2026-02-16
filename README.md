@@ -23,6 +23,8 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" height="40" alt="ArgoCD"/>
+<img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/>
 </div>
 
 ---
