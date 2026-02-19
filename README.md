@@ -55,18 +55,25 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 
 ---
 
-###  GitHub Stats
+##  GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanda-2880&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Juanda-2880&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanda-2880&theme=tokyonight&hide_border=true&bg_color=0d1117" width="100%" />
 
-</div>
 
 ---
-
 ###  Let's Connect
 
 <p align="center">
