@@ -24,7 +24,6 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" height="40" alt="ArgoCD"/>
 <img src="https://cdn.simpleicons.org/github/white" height="40" alt="GitHub"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions"/>
 </div>
 
 ---
@@ -58,17 +57,14 @@ I am a passionate Telematics Engineering student currently in my 7th semester at
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanda-2880&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Juanda-2880&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Juanda-2880&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 
 
