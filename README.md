@@ -2,7 +2,11 @@
 
 ### Passionate about Cloud & Infrastructure 
 
-I am a passionate Telematics Engineering student currently in my 7th semester at Universidad Icesi , where I have built a strong foundation in networking and systems . My technical journey led me to discover a deep interest in Cloud Computing , which has now become my main career focus . I am fully committed to becoming a Cloud Engineer, actively dedicating my time to mastering the AWS ecosystem , Linux environments , and Infrastructure as Code . I thrive on the challenge of designing scalable architectures  and am constantly expanding my skill set through hands-on projects and continuous learning to bridge the gap between development and operations .
+Telematics Engineer from Universidad Icesi with a strong focus on Cloud Engineering and DevOps. I design, build, and operate scalable, highly available, and secure distributed systems across AWS, Azure, and GCP, applying Infrastructure as Code (Terraform) to ensure consistency, automation, and reliability.
+
+My background in telematics allows me to approach cloud architectures with a deep understanding of networking, connectivity, and service integration — bridging the gap between traditional network engineering and modern cloud-native environments.
+
+I have hands-on experience working with containerized workloads using Docker and Kubernetes, implementing CI/CD pipelines with GitHub Actions, and managing continuous delivery workflows through ArgoCD. I also develop automation and backend solutions using Python, and work with serverless architectures to optimize performance and cost.
 
 ---
 
