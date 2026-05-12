@@ -2,9 +2,9 @@
 
 ### Passionate about Cloud & Infrastructure 
 
-Telematics Engineer from Universidad Icesi with a strong focus on Cloud Engineering and DevOps. I design, build, and operate scalable, highly available, and secure distributed systems across AWS, Azure, and GCP, applying Infrastructure as Code (Terraform) to ensure consistency, automation, and reliability.
+Cloud & DevOps Engineer designing, building, and operating scalable, highly available, and secure distributed systems across AWS, Azure, and GCP. I apply Infrastructure as Code (Terraform) to ensure consistency, automation, and reliability across all deployments.
 
-My background in telematics allows me to approach cloud architectures with a deep understanding of networking, connectivity, and service integration — bridging the gap between traditional network engineering and modern cloud-native environments.
+I approach cloud architectures with a deep understanding of networking, connectivity, and service integration — effectively bridging the gap between traditional network engineering and modern cloud-native environments.
 
 I have hands-on experience working with containerized workloads using Docker and Kubernetes, implementing CI/CD pipelines with GitHub Actions, and managing continuous delivery workflows through ArgoCD. I also develop automation and backend solutions using Python, and work with serverless architectures to optimize performance and cost.
 
