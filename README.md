@@ -85,25 +85,15 @@ I combine Infrastructure as Code (Terraform), configuration management (Ansible)
 
 ### GitHub Activity & Analytics
 
-<!-- GitHub Trophies -->
+<!-- Core Stats & Top Languages (Instancia oficial con commits incluidos) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Juanda-2880&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Juanda-2880 Trophies" />
-</p>
-
-<!-- Core Stats & Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juanda-2880&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Juanda-2880&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanda-2880&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
-<!-- Streak Stats -->
+<!-- GitHub Streak Stats (Instancia dedicada en demolab) -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Juanda-2880&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
-<!-- 30-Day Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juanda-2880&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Activity Graph" />
 </p>
 
 ---
@@ -123,6 +113,7 @@ I combine Infrastructure as Code (Terraform), configuration management (Ansible)
 </p>
 
 <br/>
+<!-- Profile Views Counter (Servicio estable vía Hits/Seeyoufarm) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Juanda-2880&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJuanda-2880&count_bg=%230e75b6&title_bg=%231a1b27&title=Profile%20Views&edge_flat=true" alt="Profile Views" />
 </p>
