@@ -2,18 +2,18 @@
 
 ### Cloud Engineer | CloudOps, Infrastructure Automation & Data Engineering
 
-Cloud Engineer focused on designing, deploying, and operating reliable, scalable, and cost-efficient distributed systems across multi-cloud environments (AWS, Microsoft Azure, and GCP).
+Cloud Engineer focused on designing, deploying, and operating reliable, scalable, and cost-efficient distributed systems across multi-cloud environments (AWS, Microsoft Azure, and GCP)[cite: 3].
 
-I combine Infrastructure as Code (Terraform), container orchestration, and automated pipelines with data platform integration and system-level administration to ensure resilient cloud operations.
+I combine Infrastructure as Code (Terraform), configuration management (Ansible), container orchestration, and automated pipelines with data platform integration and system-level administration to ensure resilient cloud operations[cite: 3, 4].
 
 ---
 
 ### Core Focus & Engineering Highlights
 
-- **CloudOps & FinOps:** Managing multi-cloud workloads with an emphasis on cost optimization and resource allocation, achieving a 79% AWS monthly spend reduction on EKS architectures.
-- **Containers & Scalability:** Deploying microservices with Kubernetes and Helm, implementing Horizontal Pod Autoscalers (HPA) to dynamically handle operational load.
-- **Automated Delivery & DevSecOps:** Building end-to-end GitOps and continuous integration pipelines using Argo CD, GitHub Actions, Jenkins, SonarQube, and Trivy.
-- **Data Engineering & Cloud Platforms:** Implementing ETL/ELT pipelines, streaming architectures, and lakehouses using GCP data services (Dataflow, BigQuery, Dataplex, Pub/Sub), Apache Airflow, and Apache Spark.
+- **CloudOps & FinOps:** Managing multi-cloud workloads with an emphasis on cost optimization and resource allocation, achieving a 79% AWS monthly spend reduction on EKS architectures[cite: 4].
+- **Containers & Scalability:** Deploying microservices with Kubernetes and Helm, implementing Horizontal Pod Autoscalers (HPA) to dynamically handle operational load[cite: 4].
+- **Infrastructure Automation & DevSecOps:** Automated provisioning and configuration via Terraform and Ansible, accompanied by declarative GitOps pipelines using Argo CD, GitHub Actions, Jenkins, SonarQube, and Trivy[cite: 3, 4].
+- **Data Engineering & Cloud Platforms:** Implementing ETL/ELT pipelines, streaming architectures, and lakehouses using GCP data services (Dataflow, BigQuery, Dataplex, Pub/Sub), Apache Airflow, and Apache Spark[cite: 4].
 
 ---
 
@@ -24,6 +24,7 @@ I combine Infrastructure as Code (Terraform), container orchestration, and autom
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="42" alt="Azure" title="Microsoft Azure"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" height="42" alt="GCP" title="Google Cloud Platform"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="42" alt="Terraform" title="Terraform (IaC)"/>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" height="42" alt="Ansible" title="Ansible (Automation & Config Mgmt)"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="42" alt="Kubernetes" title="Kubernetes"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" height="42" alt="Helm" title="Helm"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="42" alt="Docker" title="Docker"/>
@@ -35,7 +36,6 @@ I combine Infrastructure as Code (Terraform), container orchestration, and autom
   <img src="https://cdn.simpleicons.org/trivy/0080FF" height="40" alt="Trivy" title="Trivy"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" title="Prometheus"/>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/grafanaloki/F5A623" height="40" alt="Loki" title="Grafana Loki"/>
 </div>
 
 ---
