@@ -13,7 +13,7 @@ I combine Infrastructure as Code (Terraform), configuration management (Ansible)
 - **CloudOps & FinOps:** Managing multi-cloud workloads with an emphasis on cost optimization and resource allocation, achieving a 79% AWS monthly spend reduction on EKS architectures.
 - **Containers & Scalability:** Deploying microservices with Kubernetes and Helm, implementing Horizontal Pod Autoscalers (HPA) to dynamically handle operational load.
 - **Infrastructure Automation & DevSecOps:** Automated provisioning and configuration via Terraform and Ansible, accompanied by declarative GitOps pipelines using Argo CD, GitHub Actions, Jenkins, SonarQube, and Trivy.
-- **Data Engineering & Cloud Platforms:** Implementing ETL/ELT pipelines, streaming architectures, and lakehouses using GCP data services (Dataflow, BigQuery, Dataplex, Pub/Sub), Apache Airflow, and Apache Spark
+- **Data Engineering & Cloud Platforms:** Implementing ETL/ELT pipelines, streaming architectures, and lakehouses using GCP data services (Dataflow, BigQuery, Dataplex, Pub/Sub), Apache Airflow, and Apache Spark.
 
 ---
 
