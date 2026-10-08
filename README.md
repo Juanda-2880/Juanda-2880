@@ -2,18 +2,18 @@
 
 ### Cloud Engineer | CloudOps, Infrastructure Automation & Data Engineering
 
-Cloud Engineer focused on designing, deploying, and operating reliable, scalable, and cost-efficient distributed systems across multi-cloud environments (AWS, Microsoft Azure, and GCP)[cite: 3].
+Cloud Engineer focused on designing, deploying, and operating reliable, scalable, and cost-efficient distributed systems across multi-cloud environments (AWS, Microsoft Azure, and GCP).
 
-I combine Infrastructure as Code (Terraform), configuration management (Ansible), container orchestration, and automated pipelines with data platform integration and system-level administration to ensure resilient cloud operations[cite: 3, 4].
+I combine Infrastructure as Code (Terraform), configuration management (Ansible), container orchestration, and automated pipelines with data platform integration and system-level administration to ensure resilient cloud operations.
 
 ---
 
 ### Core Focus & Engineering Highlights
 
-- **CloudOps & FinOps:** Managing multi-cloud workloads with an emphasis on cost optimization and resource allocation, achieving a 79% AWS monthly spend reduction on EKS architectures[cite: 4].
-- **Containers & Scalability:** Deploying microservices with Kubernetes and Helm, implementing Horizontal Pod Autoscalers (HPA) to dynamically handle operational load[cite: 4].
-- **Infrastructure Automation & DevSecOps:** Automated provisioning and configuration via Terraform and Ansible, accompanied by declarative GitOps pipelines using Argo CD, GitHub Actions, Jenkins, SonarQube, and Trivy[cite: 3, 4].
-- **Data Engineering & Cloud Platforms:** Implementing ETL/ELT pipelines, streaming architectures, and lakehouses using GCP data services (Dataflow, BigQuery, Dataplex, Pub/Sub), Apache Airflow, and Apache Spark[cite: 4].
+- **CloudOps & FinOps:** Managing multi-cloud workloads with an emphasis on cost optimization and resource allocation, achieving a 79% AWS monthly spend reduction on EKS architectures.
+- **Containers & Scalability:** Deploying microservices with Kubernetes and Helm, implementing Horizontal Pod Autoscalers (HPA) to dynamically handle operational load.
+- **Infrastructure Automation & DevSecOps:** Automated provisioning and configuration via Terraform and Ansible, accompanied by declarative GitOps pipelines using Argo CD, GitHub Actions, Jenkins, SonarQube, and Trivy.
+- **Data Engineering & Cloud Platforms:** Implementing ETL/ELT pipelines, streaming architectures, and lakehouses using GCP data services (Dataflow, BigQuery, Dataplex, Pub/Sub), Apache Airflow, and Apache Spark
 
 ---
 
